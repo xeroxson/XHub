@@ -1,5 +1,5 @@
 local function ScreenGui()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xeroxson/script/refs/heads/main/script"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/fekaola/xhub/refs/heads/main/rykablydsquad.lua'))()
 end
 local function Script()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xeroxson/-/refs/heads/main/lopuh"))()
